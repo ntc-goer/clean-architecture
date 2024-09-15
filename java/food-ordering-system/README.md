@@ -7,3 +7,8 @@ Example:
 
 ### artifactId
 The artifactId is the name of the project (or the library) and should be unique within the groupId.
+
+
+
+## Maven cmd
+Install external dependency : ```mvn clean install```
